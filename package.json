@@ -2,9 +2,9 @@
   "name": "HANSAMAL",
   "version": "1.0.0",
   "description": "A Simple WhatsApp bot created By IMALKA HANSAMAL",
-  "main": "hansamal.js",
+  "main": "index.js",
   "scripts": {
-    "start": "pm2 start hansamal.js --deep-monitoring --attach --name HANSAMAL",
+    "start": "pm2 start index.js --deep-monitoring --attach --name HANSAMAL",
     "stop": "pm2 stop hansamal",
     "restart": "pm2 restart hansamal"
   },
