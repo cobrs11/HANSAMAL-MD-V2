@@ -11,8 +11,8 @@
       "required": true
     },  
 
-    "ALIVE_IMG": {
-      "description": "Put your alive img here.",
+    "BOT_NUMBER": {
+      "description": "Put your bot number here.",
       "required": true
     },
     
